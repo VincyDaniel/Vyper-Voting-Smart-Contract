@@ -9,4 +9,3 @@ This smart contract implements a simple, secure, and transparent voting system u
 - One vote per address (enforced)
 - Publicly viewable election results
 - Predefined default candidates included
-
